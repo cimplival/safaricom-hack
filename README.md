@@ -56,6 +56,6 @@ The app defines following CRUD APIs.
 
 You can test them using postman, crud or any other rest api client.
 
-## Explore Rest APIs
+## Repository
 
 This app can be downloaded from `https://github.com/cimplival/safaricom-hack`
