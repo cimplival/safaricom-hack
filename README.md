@@ -54,7 +54,7 @@ The app defines following CRUD APIs.
     
     DELETE /api/hacker/{hackerId}/delete
 
-You can test them using postman, crud or any other rest api client.
+You can test them using postman, curl or any other rest api client.
 
 ## Repository
 
